@@ -107,7 +107,7 @@ console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
 
-  [?] {bold.green UNFALL | Unfollow All Following IG!}
+  [?] {bold.green UNFALL | Unfollow All Following Instagram!}
 
   ——————————————————  [THANKS TO]  ————————————————————
   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
